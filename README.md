@@ -1,2 +1,2 @@
-# matrixClock
-Micropython driven LED matrix clock
+# RGB matrix Clock
+Python driven LED matrix clock
